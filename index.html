@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="img/ico.ico">
+    <title>Dev Anime List</title>
+</head>
+<body>
+    <header>
+        <h1>Dev Anime List</h1>
+
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="concluidos.html">Concluídos</a>
+            <a href="sobre.html">Sobre</a>
+        </nav>
+    </header>
+    
+    <main>
+        <div class="search-container">
+            <input 
+                type="text" 
+                id="search-input" 
+                class="search-input" 
+                placeholder="Procure um anime..."
+                onkeyup="filtrarAnimes()"
+            >
+        </div>
+
+        <section id="anime-list" class="card-container">
+            
+        </section>
+
+    </main>    <footer>
+        <p>&copy; 2025 Dev Anime List - Gerenciador de Animes</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            carregarAnimes().then(() => {
+                exibirAnimes();
+            });
+        });
+    </script>
+</body>
+</html>

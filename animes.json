@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nome": "Attack on Titan",
+    "episodios": 139,
+    "descricao": "Num mundo onde a humanidade vive cercada por muros gigantes, Eren Yeager jura vingança contra os titãs que destruíram sua casa e mataram sua mãe.",
+    "status": "para-assistir",
+    "imagem": "img/logo/attack.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Death Note",
+    "episodios": 37,
+    "descricao": "Um jovem estudante encontra um caderno misterioso que lhe permite matar qualquer pessoa apenas escrevendo seu nome. Ele decide usar esse poder para criar um mundo melhor.",
+    "status": "concluido",
+    "imagem": "img/logo/death.png"
+  },
+  {
+    "id": 3,
+    "nome": "Demon Slayer",
+    "episodios": 55,
+    "descricao": "Tanjiro treina para se tornar um matador de demônios a fim de salvar sua irmã Nezuko, que foi transformada em demônio mas retém sua humanidade.",
+    "status": "para-assistir",
+    "imagem": "img/logo/demonslayer.png"
+  },
+  {
+    "id": 4,
+    "nome": "Jujutsu Kaisen",
+    "episodios": 47,
+    "descricao": "Um estudante de ensino médio comum ingere um dedo misterioso de um demônio poderoso e passa a hospedar uma entidade maligna, precisando lutar contra feiticeiros do mal.",
+    "status": "para-assistir",
+    "imagem": "img/logo/jujutsu.png"
+  },
+  {
+    "id": 5,
+    "nome": "My Hero Academia",
+    "episodios": 113,
+    "descricao": "Em um mundo onde a maioria das pessoas possui superpoderes chamados 'Quirks', um rapaz sem poderes sonha em se tornar um herói profissional.",
+    "status": "para-assistir",
+    "imagem": "img/logo/myheroacademia.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "One Punch Man",
+    "episodios": 24,
+    "descricao": "Um super-herói entediado que pode derrotar qualquer inimigo com um único golpe busca encontrar um adversário digno de um verdadeiro combate.",
+    "status": "concluido",
+    "imagem": "img/logo/onepunchman.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Sword Art Online",
+    "episodios": 96,
+    "descricao": "Milhares de jogadores ficam presos em um jogo de realidade virtual onde a morte no jogo significa morte na vida real. Um grupo de heróis deve encontrar uma maneira de escapar.",
+    "status": "para-assistir",
+    "imagem": "img/logo/swordartonline.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Tokyo Ghoul",
+    "episodios": 48,
+    "descricao": "Um jovem se torna meio-ghoul após um encontro perigoso e deve aprender a viver em um mundo dividido entre humanos e ghouls.",
+    "status": "para-assistir",
+    "imagem": "img/logo/tokyoghoul.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Naruto",
+    "episodios": 500,
+    "descricao": "Um jovem ninja de uma aldeia oculta sonha em se tornar o líder de sua comunidade enquanto enfrenta inimigos poderosos e faz amigos valiosos.",
+    "status": "concluido",
+    "imagem": "img/logo/naruto.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Bleach",
+    "episodios": 366,
+    "descricao": "Um adolescente ganha poderes espirituais de um Shinigami e se vê envolvido em uma guerra entre o mundo dos espíritos e o mundo humano.",
+    "status": "para-assistir",
+    "imagem": "img/logo/bleach.png"
+  },
+  {
+    "id": 11,
+    "nome": "Steins Gate",
+    "episodios": 24,
+    "descricao": "Um grupo de amigos descobre como enviar mensagens para o passado através de um microondas modificado, causando efeitos colaterais perigosos.",
+    "status": "concluido",
+    "imagem": "img/logo/steinsgate.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Code Geass",
+    "episodios": 50,
+    "descricao": "Um estudante exilado ganha o poder de comandar mentalmente qualquer pessoa e usa essa habilidade para libertar seu país da opressão.",
+    "status": "para-assistir",
+    "imagem": "img/logo/codegeass.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Fullmetal Alchemist",
+    "episodios": 64,
+    "descricao": "Dois irmãos alquimistas tentam restaurar seus corpos após uma experiência alquímica fracassada que custou-lhes partes do corpo.",
+    "status": "concluido",
+    "imagem": "img/logo/fullmetal.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Cowboy Bebop",
+    "episodios": 26,
+    "descricao": "Seguindo a tripulação de uma nave de caça-recompensas no espaço enquanto eles enfrentam diversos perigos e mistérios cósmicos.",
+    "status": "concluido",
+    "imagem": "img/logo/cowboyb.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Neon Genesis Evangelion",
+    "episodios": 26,
+    "descricao": "Adolescentes pilotos de robôs gigantes lutam contra criações misteriosas enquanto confrontam seus próprios problemas psicológicos.",
+    "status": "para-assistir",
+    "imagem": "img/logo/nerv.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Psycho-Pass",
+    "episodios": 22,
+    "descricao": "Numa sociedade distópica onde um sistema monitora a mentalidade das pessoas, uma jovem inspetora questiona a moralidade do sistema.",
+    "status": "para-assistir",
+    "imagem": "img/logo/psychopass.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Kill la Kill",
+    "episodios": 24,
+    "descricao": "Uma jovem busca vingança contra aqueles responsáveis pela morte de seu pai numa escola onde uniformes especiais concedem superpoderes.",
+    "status": "concluido",
+    "imagem": "img/logo/kill.jpg"
+  },
+  {
+    "id": 18,
+    "nome": "Mob Psycho 100",
+    "episodios": 37,
+    "descricao": "Um adolescente com imensos poderes psíquicos tenta levar uma vida normal enquanto tenta controlar suas habilidades e crescer como pessoa.",
+    "status": "concluido",
+    "imagem": "img/logo/mobps.jpg"
+  },
+  {
+    "id": 19,
+    "nome": "Vinland Saga",
+    "episodios": 24,
+    "descricao": "A história de um jovem guerreiro viking que busca vingança mas acaba descobrindo um caminho para a paz e redenção pessoal.",
+    "status": "para-assistir",
+    "imagem": "img/logo/vinland.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "The Promised Neverland",
+    "episodios": 23,
+    "descricao": "Crianças em um orfanato descobrem um segredo aterrorizante e devem planejar uma fuga bem coordenada para sobreviver.",
+    "status": "para-assistir",
+    "imagem": "img/logo/neverland.png"
+  },
+  {
+    "id": 21,
+    "nome": "Ergo Proxy",
+    "episodios": 23,
+    "descricao": "Num mundo pós-apocalíptico, uma humana e um androides viajam juntos enfrentando questões sobre a natureza da consciência e da existência.",
+    "status": "para-assistir",
+    "imagem": "img/logo/ergoproxy.jpg"
+  },
+  {
+    "id": 22,
+    "nome": "Gurren Lagann",
+    "episodios": 27,
+    "descricao": "Dois rapazes descobrem o poder de combinar seus poderes espirituais para pilotar gigantescos robôs e derrotar opressores cósmicos.",
+    "status": "concluido",
+    "imagem": "img/logo/Gurren.jpg"
+  },
+  {
+    "id": 23,
+    "nome": "Re:Zero",
+    "episodios": 50,
+    "descricao": "Um jovem é transportado para outro mundo e descobre que pode voltar no tempo quando morre, usando esse poder para salvar amigos.",
+    "status": "para-assistir",
+    "imagem": "img/logo/rezero.png"
+  },
+  {
+    "id": 24,
+    "nome": "Overlord",
+    "episodios": 52,
+    "descricao": "Um mago poderoso é transportado para outro mundo e deve usar suas habilidades sobrenaturais para estabelecer seu império.",
+    "status": "para-assistir",
+    "imagem": "img/logo/overlord.jpg"
+  },
+  {
+    "id": 25,
+    "nome": "Classroom of the Elite",
+    "episodios": 36,
+    "descricao": "Numa escola onde estudantes são classificados por habilidade, um aluno misterioso e silencioso revela sua verdadeira inteligência estratégica.",
+    "status": "para-assistir",
+    "imagem": "img/logo/classroom.png"
+  },
+  {
+    "id": 26,
+    "nome": "Spy x Family",
+    "episodios": 25,
+    "descricao": "Um espiã, um assassino e uma telepata se unem para formar uma família falsa e completar uma importante missão de espionagem.",
+    "status": "concluido",
+    "imagem": "img/logo/spy.jpg"
+  },
+  {
+    "id": 27,
+    "nome": "Chainsaw Man",
+    "episodios": 12,
+    "descricao": "Um jovem que pode se transformar em um demônio motosserra trabalha para uma agência do governo caçando e derrotando demônios.",
+    "status": "para-assistir",
+    "imagem": "img/logo/chainsaw.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Frieren: Beyond Journey's End",
+    "episodios": 28,
+    "descricao": "Após uma longa jornada derrotando um Imperador Demoníaco, uma maga imortal viaja para descobrir o verdadeiro significado da vida e amizade.",
+    "status": "para-assistir",
+    "imagem": "img/logo/frieren.jpg"
+  },
+  {
+    "id": 29,
+    "nome": "Solo Leveling",
+    "episodios": 12,
+    "descricao": "Um caçador fraco ganha misteriosos poderes de um sistema oculto e se torna cada vez mais poderoso na sociedade de caçadores.",
+    "status": "concluido",
+    "imagem": "img/logo/sololeveling.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Horimiya",
+    "episodios": 13,
+    "descricao": "Dois estudantes com duplas personalidades (uma verdadeira em casa e outra na escola) descobrem a verdade um do outro e desenvolvem romance.",
+    "status": "para-assistir",
+    "imagem": "img/logo/horimiya.jpg"
+  }
+]
